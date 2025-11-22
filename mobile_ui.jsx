@@ -1,10 +1,3 @@
-// AutoHireAI_MobileUI.jsx — FULL FEATURED VERSION
-// Added comprehensive UI screens for requested features:
-// Advanced AI Matching, Video Meeting UI, Scheduling Calendar, Dispute Resolution,
-// Freelancer & Client Analytics, Interactive Portfolio, Learning Paths, Financial Suite,
-// Community (forums & mentorship), Project Scoping Wizard, Team Collaboration,
-// Legal Templates Browser, Project Progress Dashboard, and a Custom Mentor Match feature.
-
 import React, { useState } from "react";
 
 export default function AutoHireAI() {
